@@ -1,2 +1,5 @@
 # learnGithub
-my first repo in learing github
+my first repo in learning github & git
+
+--------------------------------------
+
